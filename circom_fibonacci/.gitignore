@@ -1,0 +1,9 @@
+fibonacci_cpp
+fibonacci.r1cs
+fibonacci.sym
+fibonacci_js/
+fibonacci_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json

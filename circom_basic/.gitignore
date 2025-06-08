@@ -1,0 +1,9 @@
+demo1_cpp
+demo1.r1cs
+demo1.sym
+demo1_js/
+demo1_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json
