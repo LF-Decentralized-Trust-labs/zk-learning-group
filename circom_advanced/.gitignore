@@ -1,0 +1,9 @@
+advanced_cpp
+advanced.r1cs
+advanced.sym
+advanced_js/
+advanced_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json

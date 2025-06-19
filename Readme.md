@@ -13,7 +13,7 @@
   Discord channel:   LF Decentralized Trust   
     https://discord.com/channels/905194001349627914/1329201532628898036   
  Meetup.com: https://www.meetup.com/lfdt-hungary/events/306309519  
- Repo with all the contents:https://github.com/LF-Decentralized-Trust-labs/  
+ Repo with all the contents:https://github.com/LF-Decentralized-Trust-labs/zk-learning-group     
  - Quizzes and small programming challenges    
  - LFDT merchs at the end ?   
 
@@ -53,7 +53,7 @@ https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf
 
 -  ***March 20, 2025*** : Theory : Polynomial commitments  
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1_mum_pvMvNuH7kGdrPO7SOizPi1mUqOcpX4K2ne2ULE)  
-Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306309519/)  
 Quiz :  
 
@@ -113,18 +113,35 @@ Moonmath Manual: https://github.com/LeastAuthority/moonmath-manual
 
 -  ***June 19, 2025*** : Programming : Circom advanced  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)    
-Recording :  
-Meetup: Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=5ffcPgbq8DI)  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
 Code : /circom_advanced   
 Quiz (developer challenge) :  
+Create a circom implementation for a simple 3x3 sudoku
+
+    *Links and literature* :  
+Circom tutorial:   
+https://www.rareskills.io/post/circom-tutorial   
+Circomlib:   
+https://github.com/iden3/circomlib    
+Zero knowledge puzzles:   
+https://github.com/RareSkills/zero-knowledge-puzzles   
+ZK book:   
+https://github.com/RareSkills/zk-book    
+Circom 101:   
+https://circom.erhant.me/    
+
+
+-  ***July 17, 2025*** : Programming : Basics of Noir  
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/112zZ--mbhsxkHCynTsPvVDhXo1ucggDcNQPAJh8r10s/edit?usp=sharing)    
+Recording :  
+Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308562816/)   
+Code :    
+Quiz (developer challenge) :   
+
 
     *Links and literature* :  
 
-
--  ***July 19, 2025*** : Programming : Basics of Noir  
-Slideshow :  
-Recording :  
-Meetup:  
 
 -  ***August 20, 2025*** : Programming : Noir advanced  
 Slideshow :  
