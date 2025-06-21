@@ -115,9 +115,10 @@ Moonmath Manual: https://github.com/LeastAuthority/moonmath-manual
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)    
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=5ffcPgbq8DI)  
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
-Code : /circom_advanced   
+Code : /circom_advanced, /circom_comparision    
+
 Quiz (developer challenge) :  
-Create a circom implementation for a simple 3x3 sudoku
+Create a circom implementation for a simple 3x3 sudoku  
 
     *Links and literature* :  
 Circom tutorial:   

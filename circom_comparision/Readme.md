@@ -1,5 +1,5 @@
 
-# NOTES FOR CIRCOM (MORE) ADVANCED PATTERN
+# NOTES FOR CIRCOM COMPARISION
 
 # install circom
 https://docs.circom.io/getting-started/installation/ 
@@ -9,16 +9,16 @@ https://docs.circom.io/getting-started/installation/
 
 ## NODEJS
 ### generate proof with nodejs
-npm run prove  advanced_js/advanced.wasm advanced_js/advanced_final.zkey input.json
+npm run prove  comparision_js/comparision.wasm comparision_js/comparision_final.zkey input.json
 
 ### verify proof with nodejs
-npm run verify advanced_js/verification_key.json publicSignals.json proof.json
+npm run verify comparision_js/verification_key.json publicSignals.json proof.json
 
 ## SOLIDITY
-cd advanced_js
+cd comparision_js
 
 ### generate solidity smart contract
-snarkjs zkey export solidityverifier advanced_final.zkey verifier.sol
+snarkjs zkey export solidityverifier comparision_final.zkey verifier.sol
 
 ### generate test call for solidity smart contract
 snarkjs generatecall

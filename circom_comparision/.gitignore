@@ -1,0 +1,9 @@
+comparision_cpp
+comparision.r1cs
+comparision.sym
+comparision_js/
+comparision_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json
