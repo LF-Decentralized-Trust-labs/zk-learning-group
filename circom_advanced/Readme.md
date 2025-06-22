@@ -1,6 +1,8 @@
 
 # NOTES FOR CIRCOM (MORE) ADVANCED PATTERN
 
+### An example with for combining different templates and metaprogrammings
+
 # install circom
 https://docs.circom.io/getting-started/installation/ 
 

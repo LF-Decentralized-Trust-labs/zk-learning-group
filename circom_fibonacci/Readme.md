@@ -1,6 +1,8 @@
 
 # NOTES FOR CIRCOM CALCULATING FIBONACCI
 
+### An example for calculating a fibonacci series
+
 # install circom
 https://docs.circom.io/getting-started/installation/ 
 

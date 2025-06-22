@@ -89,7 +89,8 @@ snarkjs plonk prove comparision_final.zkey witness.wtns proof.json public.json
 echo "verify proof"
 snarkjs plonk verify verification_key.json public.json proof.json
 
-
+# run test 
+npm run test
 
 
 

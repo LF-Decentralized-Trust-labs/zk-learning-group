@@ -1,6 +1,8 @@
 
 # NOTES FOR CIRCOM COMPARISION
 
+### A simple comparision example on the circuit and signal level
+
 # install circom
 https://docs.circom.io/getting-started/installation/ 
 

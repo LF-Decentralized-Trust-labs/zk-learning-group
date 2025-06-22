@@ -2,6 +2,11 @@ pragma circom 2.0.0;
 
 /*
 Advanced circuit for demonstration
+if zero == 0 then
+ out := a + b
+else
+ out := a + b + 10 
+end if
 */  
 
 // include module from circom circomlib

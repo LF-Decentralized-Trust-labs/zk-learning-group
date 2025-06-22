@@ -1,6 +1,8 @@
 
 # NOTES FOR CIRCOM BASIC
 
+### A very simple circom example
+
 # install circom
 https://docs.circom.io/getting-started/installation/ 
 

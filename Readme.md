@@ -116,7 +116,6 @@ Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tG
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=5ffcPgbq8DI)  
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
 Code : /circom_advanced, /circom_comparision    
-
 Quiz (developer challenge) :  
 Create a circom implementation for a simple 3x3 sudoku  
 
