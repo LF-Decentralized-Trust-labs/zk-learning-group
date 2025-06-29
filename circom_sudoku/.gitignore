@@ -1,0 +1,9 @@
+sudoku_cpp
+sudoku.r1cs
+sudoku.sym
+sudoku_js/
+sudoku_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json
