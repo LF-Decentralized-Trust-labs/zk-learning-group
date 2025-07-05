@@ -93,9 +93,9 @@ https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM)
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
-Code : /circom_basic  
+Code : /circom/circom_basic   
 Quiz (developer challenge) : Create a proof that an output is the 10th series of a Fibonacci like series of two hidden (private) starting elements of the series  
-Solution : /circom_fibonacci   
+Solution : /circom/circom_fibonacci   
 
     *Links and literature* :  
 Circom tutorial:   
@@ -118,6 +118,7 @@ Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/30813721
 Code : /circom_advanced, /circom_comparision    
 Quiz (developer challenge) :  
 Create a circom implementation for a simple 3x3 sudoku  
+/circom/circom_sudoku, /circom/circom_sudokufull   
 
     *Links and literature* :  
 Circom tutorial:   

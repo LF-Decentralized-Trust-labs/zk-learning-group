@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha  -p -r ts-node/register test.js",
+    "prove": "node prove.js",
+    "verify": "node verify.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "circom_tester": "^0.0.24",
+    "circomlib": "^2.0.5",
+    "mocha": "^11.7.0",
+    "snarkjs": "^0.7.1",
+    "ts-node": "^10.9.2"
+  }
+}
