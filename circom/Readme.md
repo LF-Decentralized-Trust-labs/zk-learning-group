@@ -1,6 +1,6 @@
 # Zero knowledge learning (ZK) group
 
-## (A learning group dedicated to zero knowledge (ZK) and SNARK application development)
+## A learning group dedicated to zero knowledge (ZK) and SNARK application development
 
 ## Circom examples
 

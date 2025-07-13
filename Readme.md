@@ -133,7 +133,7 @@ Circom 101:
 https://circom.erhant.me/    
 
 
--  ***July 17, 2025*** : Programming : Basics of Noir  
+-  ***July 21, 2025*** : Programming : Basics of Noir  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/112zZ--mbhsxkHCynTsPvVDhXo1ucggDcNQPAJh8r10s/edit?usp=sharing)    
 Recording :  
 Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308562816/)   
