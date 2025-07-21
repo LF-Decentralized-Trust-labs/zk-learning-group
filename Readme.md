@@ -91,7 +91,7 @@ https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 
 -  ***May 29, 2025*** : Programming : Basics of Circom  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
-Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM)
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
 Code : /circom/circom_basic   
 Quiz (developer challenge) : Create a proof that an output is the 10th series of a Fibonacci like series of two hidden (private) starting elements of the series  
@@ -135,19 +135,35 @@ https://circom.erhant.me/
 
 -  ***July 21, 2025*** : Programming : Basics of Noir  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/112zZ--mbhsxkHCynTsPvVDhXo1ucggDcNQPAJh8r10s/edit?usp=sharing)    
-Recording :  
-Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308562816/)   
-Code :    
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=jsy_UHBujrc)   
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308562816/)   
+Code : /noir/Aztec_sandbox, /noir/noir_basics   
+Quiz (developer challenge) : Experiment with the Aztec_sandbox, try out something beyond the basics   
+
+    *Links and literature* :  
+Noir : Beginner’s Guide I:   
+https://coinsbench.com/noir-begineers-guide-1-ca43da4f23dd   
+Noir : Beginner’s Guide II   
+https://coinsbench.com/noir-beginners-guide-ii-188868aa161d   
+Noir documentation   
+https://noir-lang.org/docs   
+ACIR documentation   
+https://lib.rs/crates/acir   
+Awesome Noir:     
+(repository with a lot of examples)   
+https://github.com/noir-lang/awesome-noir/?tab=readme-ov-file#proving-backends   
+
+
+-  ***August 21, 2025*** : Programming : Advanced Noir programming   
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1qmgrZFPUJf2kF6n61FNxq1g3jKZrr2LPd1jrG0AeL4U/edit?usp=sharing)    
+Recording :   
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310089223/)    
+Code :  
 Quiz (developer challenge) :   
 
 
     *Links and literature* :  
 
-
--  ***August 20, 2025*** : Programming : Noir advanced  
-Slideshow :  
-Recording :  
-Meetup:  
 
 -  ***September 18, 2025*** : Applications : Off-chain transaction  
 Slideshow :  
