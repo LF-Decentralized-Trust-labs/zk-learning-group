@@ -156,18 +156,18 @@ https://github.com/noir-lang/awesome-noir/?tab=readme-ov-file#proving-backends
 
 -  ***August 21, 2025*** : Programming : Advanced Noir programming   
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1qmgrZFPUJf2kF6n61FNxq1g3jKZrr2LPd1jrG0AeL4U/edit?usp=sharing)    
-Recording :   
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=1XUSy5p09eU)   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310089223/)    
-Code :  
+Code :  /noir/noir_samples
 Quiz (developer challenge) : Develop a sudoku puzzle with the help of Noir  
 
     *Links and literature* :  
-Aztec starter kit  
+Aztec starter kit   
 https://github.com/AztecProtocol/aztec-starter   
-Noir online playground   
-https://www.noir-playground.app/   
-Noir documentation  
-https://noir-lang.org/  
+Noir online playground    
+https://www.noir-playground.app/    
+Noir documentation   
+https://noir-lang.org/   
 Awesome Noir, repository with examples   
 https://github.com/noir-lang/awesome-noir   
 Noir Explained: Features and Examples  
@@ -175,12 +175,18 @@ https://oxor.io/blog/2024-06-18-noir-explained-features-and-examples/
 NoirJS  
 https://noir-lang.org/docs/reference/NoirJS/noir_js/      
 
--  ***September 18, 2025*** : Applications : Off-chain transaction  
-Slideshow :  
-Recording :  
-Meetup:  
 
--  ***October 16, 2025*** : Applications : Proof of reserve, proof of solvency  
+-  ***September 16, 2025*** : Applications : Proof of reserve, proof of solvency    
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/11pg_CX2xbJ9MGcrTKOfCYuXjsZ1W5reg87q6zqEZCnU/edit?usp=sharing)    
+Recording :  
+Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310634471/)   
+Code :   
+Quiz (developer challenge) :   
+
+    *Links and literature* :   
+
+
+-  ***October 16, 2025*** : Applications : Off-chain transaction    
 Slideshow :  
 Recording :  
 Meetup:  
