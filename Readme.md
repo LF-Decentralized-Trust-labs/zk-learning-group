@@ -159,11 +159,21 @@ Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1qmg
 Recording :   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310089223/)    
 Code :  
-Quiz (developer challenge) :   
-
+Quiz (developer challenge) : Develop a sudoku puzzle with the help of Noir  
 
     *Links and literature* :  
-
+Aztec starter kit  
+https://github.com/AztecProtocol/aztec-starter   
+Noir online playground   
+https://www.noir-playground.app/   
+Noir documentation  
+https://noir-lang.org/  
+Awesome Noir, repository with examples   
+https://github.com/noir-lang/awesome-noir   
+Noir Explained: Features and Examples  
+https://oxor.io/blog/2024-06-18-noir-explained-features-and-examples/  
+NoirJS  
+https://noir-lang.org/docs/reference/NoirJS/noir_js/      
 
 -  ***September 18, 2025*** : Applications : Off-chain transaction  
 Slideshow :  
