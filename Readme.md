@@ -178,18 +178,33 @@ https://noir-lang.org/docs/reference/NoirJS/noir_js/
 
 -  ***September 16, 2025*** : Applications : Proof of reserve, proof of solvency    
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/11pg_CX2xbJ9MGcrTKOfCYuXjsZ1W5reg87q6zqEZCnU/edit?usp=sharing)    
-Recording :  
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=XFs2pP34RI4)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310634471/)   
 Code :   
-Quiz (developer challenge) :   
+Quiz (challenge) :  Investigate and experiment with a proof of solvency system of an exchange or centralized crypto custodian on your own   
+
+    *Links and literature* :   
+Design and implementation of solvency proof system based on zero knowledge proofs   
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12089   
+Distributed Auditing Proofs of Liabilities   
+https://eprint.iacr.org/2020/468.pdf   
+Proof of Reserves: A Report on Mitigating Crypto Custody Risk   
+https://www.btcpolicy.org/articles/proof-of-reserves-a-report-on-mitigating-crypto-custody-risk   
+Private Proof of Solvency   
+https://arxiv.org/abs/2310.13900    
+Exploring Proof of Solvency and Liability Verification Systems   
+https://blog.chain.link/proof-of-solvency/    
+
+
+-  ***October 23, 2025*** : Applications : Decentralized AI with ZK machine learning     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1pm1hEDhjvYRCftMf27shX8jP9val0-d0mw5EQ-Xyajo/edit?usp=sharing)     
+Recording :   
+Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311119947/)   
+Code :   
+Quiz (challenge) :    
 
     *Links and literature* :   
 
-
--  ***October 16, 2025*** : Applications : Off-chain transaction    
-Slideshow :  
-Recording :  
-Meetup:  
 
 -  ***November 20, 2025*** : Applications : Rollups  
 Slideshow :  
