@@ -1,0 +1,9 @@
+ml_cpp
+ml.r1cs
+ml.sym
+ml_js/
+ml_js/*
+node_modules/
+node_modules/*
+package-lock.json
+proof.json

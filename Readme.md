@@ -198,18 +198,33 @@ https://blog.chain.link/proof-of-solvency/
 
 -  ***October 23, 2025*** : Applications : Decentralized AI with ZK machine learning     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1pm1hEDhjvYRCftMf27shX8jP9val0-d0mw5EQ-Xyajo/edit?usp=sharing)     
-Recording :   
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=IkDfw0ddU9w)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311119947/)   
+Code :  /circom/circom_ml  
+Quiz (challenge) :  Investigate and experiment with a machine learning hardened by zero knowledge proof on Noir or circom   
+
+    *Links and literature* :   
+ZK Machine Learning   
+https://0xparc.org/blog/zk-mnist   
+zkML: Evolving the Intelligence of Smart Contracts Through Zero-Knowledge Cryptography   
+https://medium.com/1kxnetwork/zkml-evolving-the-intelligence-of-smart-contracts-through-zero-knowledge-cryptography-e6725412bbd1    
+ZKML: Verifiable Machine Learning using Zero-Knowledge Proof   
+https://kudelskisecurity.com/modern-ciso-blog/zkml-verifiable-machine-learning-using-zero-knowledge-proof    
+Research on Zero knowledge with machine learning   
+https://www.researchgate.net/publication/381544858_Research_on_Zero_knowledge_with_machine_learning   
+Awesome zkML repository   
+https://github.com/worldcoin/awesome-zkml   
+
+
+-  ***November 20, 2025*** : Applications : Rollups  
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)     
+Recording :  
+Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
 Code :   
 Quiz (challenge) :    
 
     *Links and literature* :   
 
-
--  ***November 20, 2025*** : Applications : Rollups  
-Slideshow :  
-Recording :  
-Meetup:  
 
 -  ***December 18, 2025*** : Wrap up, Applications  
 Slideshow :  
