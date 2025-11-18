@@ -198,7 +198,7 @@ https://blog.chain.link/proof-of-solvency/
 
 -  ***October 23, 2025*** : Applications : Decentralized AI with ZK machine learning     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1pm1hEDhjvYRCftMf27shX8jP9val0-d0mw5EQ-Xyajo/edit?usp=sharing)     
-Recording :  [Link to the recording](https://www.youtube.com/watch?v=IkDfw0ddU9w)   
+Recording : [Link to the recording](https://www.youtube.com/watch?v=IkDfw0ddU9w)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311119947/)   
 Code :  /circom/circom_ml  
 Quiz (challenge) :  Investigate and experiment with a machine learning hardened by zero knowledge proof on Noir or circom   
@@ -218,18 +218,32 @@ https://github.com/worldcoin/awesome-zkml
 
 -  ***November 20, 2025*** : Applications : Rollups  
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)     
-Recording :  
+Recording : [Link to the recording](https://www.youtube.com/watch?v=TdU15MwpQ6Q)    
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
 Code :   
-Quiz (challenge) :    
+Quiz (challenge) :  Create a simple ZK rollup in circom or in noir    
 
     *Links and literature* :   
+zk-rollup-tutorial   
+https://github.com/tanpx12/zk-rollup-tutorial   
+Build Your Own Rollup   
+https://medium.com/l2beat/build-your-own-rollup-72423f4255e7   
+Optimistic Rollups   
+https://ethereum.org/developers/docs/scaling/optimistic-rollups/    
+Zero-knowledge rollups   
+https://ethereum.org/developers/docs/scaling/zk-rollups/    
+How to Implement a Minimalist NFT zkRollup With Circom and SnarkJS   
+https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-and-snarkjs   
 
 
--  ***December 18, 2025*** : Wrap up, Applications  
-Slideshow :  
+-  ***December 15, 2025*** : Wrap up, ZK Login    
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)
 Recording :  
-Meetup:  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
+Code :   
+Quiz (challenge) :      
+
+    *Links and literature* :   
 
   
 ----------------
