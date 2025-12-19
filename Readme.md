@@ -32,6 +32,8 @@ Recording : [Link on youtube to the meetup recording](https://www.youtube.com/wa
 
 ### Syllabus:
 
+### 2025
+
 -  ***February 20, 2025***: Introduction, Theory : Definitions and building blocks  
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1_mum_pvMvNuH7kGdrPO7SOizPi1mUqOcpX4K2ne2ULE)  
 Recording : [Link to the recording](https://www.youtube.com/watch?v=ZSw_-hvnsb4)  
@@ -237,13 +239,35 @@ https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-an
 
 
 -  ***December 15, 2025*** : Wrap up, ZK Login    
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)
-Recording :  
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)    
+Recording : [Link to the recording](https://www.youtube.com/watch?v=TIp7K6ywgAA)    
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
 Code :   
-Quiz (challenge) :      
+Quiz (challenge) :  Test ZK-login with an OAuth authentication provider on a test network
+    
 
     *Links and literature* :   
-
+OAuth Explained: How It Works & Why It Matters   
+https://frontegg.com/blog/oauth   
+zkLogin Demystified: Exploring Sui's Cutting-Edge Authentication   
+https://blog.sui.io/zklogin-deep-dive/    
+zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials    
+https://arxiv.org/abs/2401.11735   
+Sui zkLogin Tutorial   
+https://hackmd.io/@moritzfelipe/HkEBKKzYa    
+Sui zkLogin Demo   
+https://sui-zklogin.vercel.app/   
   
 ----------------
+
+### 2026
+
+-  ***January 29, 2026*** : STARK   
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ctSqIgJ1Rkoumi3RbYM2U5ugMY_m2R3Q9fCA04cc7sU/edit?usp=sharing)    
+Recording :     
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312454081/)   
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
