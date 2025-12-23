@@ -19,15 +19,18 @@
 
 ### Existing resources and meetups:  
 - Zero knowledge programming workshop:  
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/18PIlA7_gg_rUDKZv22cki63jjrzb-qYP2f8qoA8hyuk)  
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/18PIlA7_gg_rUDKZv22cki63jjrzb-qYP2f8qoA8hyuk)   
+docs\zk_programming_workshop.pdf   
 Recording : [Link on youtube to the workshop](https://www.youtube.com/watch?v=W9iZMLObtUk)  
 
 - Tokenized zero knowledge machine learning and its applications:  
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1EJEjTRnOXMrWoSTJLhS55IXlvcRd_XeAlKXamPfYTts)  
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1EJEjTRnOXMrWoSTJLhS55IXlvcRd_XeAlKXamPfYTts)   
+docs\Tokenized_Zero_Knowledge_Machine_Learning_and_Its_Applications.pdf   
 Recording : [Link on youtube to the meetup recording](https://www.youtube.com/watch?v=ZeyOp5PESfk)  
 
 - Zero knowledge desgin patterns for Hyperledger Fabric  
 Slidewhow : [Link to the slideshow](https://docs.google.com/presentation/d/10ol0UARqjMeOs6rGjhigHZU95h8cP5plp9oJxlSAbPM)  
+docs\Zero_knowledge_design_patterns_for_Hyperledger_Fabric.pdf   
 Recording : [Link on youtube to the meetup recording](https://www.youtube.com/watch?v=yonQleefbTM)  
 
 ### Syllabus:
@@ -36,6 +39,7 @@ Recording : [Link on youtube to the meetup recording](https://www.youtube.com/wa
 
 -  ***February 20, 2025***: Introduction, Theory : Definitions and building blocks  
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1_mum_pvMvNuH7kGdrPO7SOizPi1mUqOcpX4K2ne2ULE)  
+docs\Hunting_for_the_SNARK_February.pdf   
 Recording : [Link to the recording](https://www.youtube.com/watch?v=ZSw_-hvnsb4)  
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/305634614/)  
 Quiz : The Alibaba cave example is an interactive probabilistic proof. Can you make it non-interactive or at least less interactive in a way that it can not be hacked / mocked by the prover ? Conditions of the game can be lightly fine-tuned.  
@@ -54,7 +58,8 @@ https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf
 
 
 -  ***March 20, 2025*** : Theory : Polynomial commitments  
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1_mum_pvMvNuH7kGdrPO7SOizPi1mUqOcpX4K2ne2ULE)  
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1MNTWRjavM4NPekso8WIsoNnJ2gdp2PuL78KTkCdgdvg/edit?usp=sharing)   
+docs\Polynomial_Commitments.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306309519/)  
 Quiz :  
@@ -74,6 +79,7 @@ https://www.zkdocs.com/docs/zkdocs/protocol-primitives/fiat-shamir/
 
 -  ***Aptil 17, 2025*** : Theory : Interactive oracle proofs  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1UtF7mVb5IvRH7EIuuHlb1Wquq_UTE8vO7coxwoEvkoU)  
+docs\Interactive_Oracle_Proofs.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306831819/)  
 Quiz : 
@@ -93,6 +99,7 @@ https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 
 -  ***May 29, 2025*** : Programming : Basics of Circom  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
+docs\Basics_of_Circom_programming.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
 Code : /circom/circom_basic   
@@ -114,7 +121,8 @@ Moonmath Manual: https://github.com/LeastAuthority/moonmath-manual
 
 
 -  ***June 19, 2025*** : Programming : Circom advanced  
-Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)    
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)  
+docs\Advanced_circom_programming.pdf     
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=5ffcPgbq8DI)  
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
 Code : /circom_advanced, /circom_comparision    
@@ -137,6 +145,7 @@ https://circom.erhant.me/
 
 -  ***July 21, 2025*** : Programming : Basics of Noir  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/112zZ--mbhsxkHCynTsPvVDhXo1ucggDcNQPAJh8r10s/edit?usp=sharing)    
+docs\Basics_of_Noir_programming.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=jsy_UHBujrc)   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308562816/)   
 Code : /noir/Aztec_sandbox, /noir/noir_basics   
@@ -157,7 +166,8 @@ https://github.com/noir-lang/awesome-noir/?tab=readme-ov-file#proving-backends
 
 
 -  ***August 21, 2025*** : Programming : Advanced Noir programming   
-Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1qmgrZFPUJf2kF6n61FNxq1g3jKZrr2LPd1jrG0AeL4U/edit?usp=sharing)    
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1qmgrZFPUJf2kF6n61FNxq1g3jKZrr2LPd1jrG0AeL4U/edit?usp=sharing)   
+docs\Advanced_Noir_programming.pdf    
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=1XUSy5p09eU)   
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310089223/)    
 Code :  /noir/noir_samples
@@ -180,6 +190,7 @@ https://noir-lang.org/docs/reference/NoirJS/noir_js/
 
 -  ***September 16, 2025*** : Applications : Proof of reserve, proof of solvency    
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/11pg_CX2xbJ9MGcrTKOfCYuXjsZ1W5reg87q6zqEZCnU/edit?usp=sharing)    
+docs\Proof_of_reserve_proof_of_solvency.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=XFs2pP34RI4)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/310634471/)   
 Code :   
@@ -200,6 +211,7 @@ https://blog.chain.link/proof-of-solvency/
 
 -  ***October 23, 2025*** : Applications : Decentralized AI with ZK machine learning     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1pm1hEDhjvYRCftMf27shX8jP9val0-d0mw5EQ-Xyajo/edit?usp=sharing)     
+docs\Decentralized_AI_with_ZK_machine_learning.pdf   
 Recording : [Link to the recording](https://www.youtube.com/watch?v=IkDfw0ddU9w)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311119947/)   
 Code :  /circom/circom_ml  
@@ -219,7 +231,8 @@ https://github.com/worldcoin/awesome-zkml
 
 
 -  ***November 20, 2025*** : Applications : Rollups  
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)   
+docs\Rollups.pdf     
 Recording : [Link to the recording](https://www.youtube.com/watch?v=TdU15MwpQ6Q)    
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
 Code :   
@@ -239,7 +252,8 @@ https://hackernoon.com/how-to-implement-a-minimalist-nft-zkrollup-with-circom-an
 
 
 -  ***December 15, 2025*** : Wrap up, ZK Login    
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZGyyqGjhCDK5hXFzwUdIC0YvvSqVhq_Bssh_lpBWA/edit?usp=sharing)    
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1-x9dW7KVMHQdBZRVlXrcypx9i73PlVa7NY0pRl_4wfM/edit?usp=sharing)    
+docs\ZK_Login.pdf   
 Recording : [Link to the recording](https://www.youtube.com/watch?v=TIp7K6ywgAA)    
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
 Code :   
