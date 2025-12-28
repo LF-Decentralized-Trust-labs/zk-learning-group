@@ -285,3 +285,22 @@ Quiz (challenge) :
 
     *Links and literature* :    
 
+-  ***February 26, 2026*** : FRI: Fast Reed-Solomon IOP of Proximity     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1b1dQhb-Xs38HoYvH8wYqZo9IYbFPeK3E8joXtCiGiWY/edit?usp=sharing)    
+Recording :     
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312600068/)   
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+-  ***March 26, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
+Recording :     
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312606404/)   
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
