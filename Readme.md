@@ -256,7 +256,9 @@ Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1-x9d
 docs\ZK_Login.pdf   
 Recording : [Link to the recording](https://www.youtube.com/watch?v=TIp7K6ywgAA)    
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
-Code :   
+Test applications:  
+https://sui-zklogin.vercel.app/  
+https://zklogin-demo.polymedia.app/     
 Quiz (challenge) :  Test ZK-login with an OAuth authentication provider on a test network
     
 
