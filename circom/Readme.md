@@ -10,5 +10,6 @@
 - Fibonacci calculation for circom: /circom_fibonacci   
 - Simple 3x3 Sudoku example for circom: /circom_sudoku   
 - Complex 9x9 Sudoku example for circom: /circom_sudokufull
-
+- Simple demo machine learning example for circom: /circom_ml
+- Simple demo transaction for a rollup in circom: /circom_rollup
 
