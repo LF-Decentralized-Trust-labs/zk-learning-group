@@ -235,7 +235,7 @@ Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1cCZG
 docs\Rollups.pdf     
 Recording : [Link to the recording](https://www.youtube.com/watch?v=TdU15MwpQ6Q)    
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/311685669/)   
-Code :   
+Code : /circom/circom_rollup     
 Quiz (challenge) :  Create a simple ZK rollup in circom or in noir    
 
     *Links and literature* :   
