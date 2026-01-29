@@ -280,12 +280,23 @@ https://sui-zklogin.vercel.app/
 
 -  ***January 29, 2026*** : STARK   
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ctSqIgJ1Rkoumi3RbYM2U5ugMY_m2R3Q9fCA04cc7sU/edit?usp=sharing)    
-Recording :     
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=P41QcEFEoBw&list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf&index=4)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312454081/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) : Experiment with a STARK system on your own     
 
     *Links and literature* :    
+STARK 101   
+https://starkware.co/stark-101/   
+Anatomy of a STARK   
+https://aszepieniec.github.io/stark-anatomy/    
+Stark-book   
+https://github.com/zksecurity/stark-book   
+stark-anatomy   
+https://github.com/aszepieniec/stark-anatomy   
+Yet another circle STARK tutorial   
+https://research.chainsafe.io/blog/circle-starks/    
+
 
 -  ***February 26, 2026*** : FRI: Fast Reed-Solomon IOP of Proximity     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1b1dQhb-Xs38HoYvH8wYqZo9IYbFPeK3E8joXtCiGiWY/edit?usp=sharing)    
