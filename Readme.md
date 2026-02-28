@@ -279,7 +279,8 @@ https://sui-zklogin.vercel.app/
 ### 2026
 
 -  ***January 29, 2026*** : STARK   
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ctSqIgJ1Rkoumi3RbYM2U5ugMY_m2R3Q9fCA04cc7sU/edit?usp=sharing)    
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ctSqIgJ1Rkoumi3RbYM2U5ugMY_m2R3Q9fCA04cc7sU/edit?usp=sharing)   
+docs\STARK.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=P41QcEFEoBw&list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf&index=4)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312454081/)   
 Code :   
@@ -300,12 +301,25 @@ https://research.chainsafe.io/blog/circle-starks/
 
 -  ***February 26, 2026*** : FRI: Fast Reed-Solomon IOP of Proximity     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1b1dQhb-Xs38HoYvH8wYqZo9IYbFPeK3E8joXtCiGiWY/edit?usp=sharing)    
-Recording :     
+docs\FRI.pdf   
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=3idZqp4xxbY)        
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312600068/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Experiment the FRI proof part of with the STARKWare tutorial proof on your own    
 
     *Links and literature* :    
+Reed-Solomon Error Correcting Codes from the Bottom Up   
+https://tomverbeure.github.io/2022/08/07/Reed-Solomon.html    
+Reed Solomon Codes: A Classical Explanation    
+https://medium.com/xord/reed-solomon-codes-a-classical-explanation-fb6f195b52e0    
+FRI Mechanics: Folding, Committing, and Batching   
+https://www.youtube.com/watch?v=wqRuoyH3Mqk    
+FRI and Proximity Proofs (Part.1) w/ Dan Boneh   
+https://zkhack.dev/whiteboard/s2m7/    
+FRI and Proximity Proofs (Part.2) w/ Dan Boneh   
+https://zkhack.dev/whiteboard/s2m8/    
+STARK101 tutorial   
+https://starkware.co/stark-101/#:~:text=STARK%20101%20is%20a%20hands,end%2Dto%2Dend%20proof.      
 
 -  ***March 26, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
