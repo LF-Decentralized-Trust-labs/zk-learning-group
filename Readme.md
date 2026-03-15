@@ -323,11 +323,30 @@ https://starkware.co/stark-101/#:~:text=STARK%20101%20is%20a%20hands,end%2Dto%2D
 
 -  ***March 26, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
+Null-Wissen-Beweis.pdf   
 Recording :     
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312606404/)   
 Code :   
 Quiz (challenge) :   
 
     *Links and literature* :    
+Null-Wissen-Beweis   
+https://de.wikipedia.org/wiki/Null-Wissen-Beweis    
+Was ist ein Null-Wissen-Beweis?    
+https://medium.com/@nataliusta/was-ist-ein-null-wissen-beweis-1b0c6c2f60d6    
+Die Macht des Zero-Knowledge-Nachweises   
+https://www.morpher.com/de/blog/zero-knowledge-proof    
+Tech-Talk: Wie funktionieren Zero-Knowledge Proofs?   
+https://www.fhnw.ch/plattformen/imvs/tech-talk-zero-knowledge-proofs/    
+Zero-Knowledge-Verfahren   
+https://tu-dresden.de/ing/informatik/sya/ps/ressourcen/dateien/studium/materialien/mat_kp_datensicherheit/v11_doku.pdf?lang=en    
 
+-  ***April 24, 2026*** : ZoKrates       
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ZaZwoyLDH8mcL-POPsdqtm-WpEc4GBosjdi_qJ-AkTw/edit?usp=sharing)    
+Recording :     
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/313781257/)   
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
 
