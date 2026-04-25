@@ -322,13 +322,27 @@ STARK101 tutorial
 https://starkware.co/stark-101/#:~:text=STARK%20101%20is%20a%20hands,end%2Dto%2Dend%20proof.      
 
 -  ***April 24, 2026*** : ZoKrates       
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ZaZwoyLDH8mcL-POPsdqtm-WpEc4GBosjdi_qJ-AkTw/edit?usp=sharing)    
-Recording :     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1ZaZwoyLDH8mcL-POPsdqtm-WpEc4GBosjdi_qJ-AkTw/edit?usp=sharing)  
+docs\ZoKrates.pdf    
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=8zgo-bTmgt8)      
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/313781257/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Build a simple (9,9)sudoku puzzle with ZoKrates     
 
     *Links and literature* :    
+ZoKrates getting started   
+https://extropy-io.medium.com/zokrates-getting-started-cbcba0c71e4c
+ZoKrates — zkSNARKs On Ethereum (made easy)   
+https://medium.com/coinmonks/zokrates-zksnarks-on-ethereum-made-easy-8022300f8ba6   
+ZK Study –- ZoKrates   
+https://hackmd.io/@vivi432/2021-zokrates   
+ZoKrates documentation   
+https://zokrates.github.io/   
+ZKP Zokrates tutorial   
+https://github.com/robert-zaremba/zkp-zokrates-tutorial   
+ZoKrates, playground   
+https://github.com/Zokrates/zokrates-playground    
+
 
 -  ***May 28, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
