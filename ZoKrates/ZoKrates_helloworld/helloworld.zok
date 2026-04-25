@@ -1,0 +1,7 @@
+// helloworld.zok
+def main(private field p, private field q, field n) {
+    assert(p * q == n);
+    assert(p > 1);
+    assert(q > 1);
+    return;
+}
