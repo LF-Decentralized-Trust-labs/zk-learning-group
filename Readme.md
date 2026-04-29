@@ -364,3 +364,80 @@ https://www.fhnw.ch/plattformen/imvs/tech-talk-zero-knowledge-proofs/
 Zero-Knowledge-Verfahren   
 https://tu-dresden.de/ing/informatik/sya/ps/ressourcen/dateien/studium/materialien/mat_kp_datensicherheit/v11_doku.pdf?lang=en    
 
+-  ***June 25, 2026*** :  Cairo and Starkware   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+-  ***June 25, 2026*** :  Cairo and Starkware   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
+-  ***July 30, 2026*** :  Basics of Leo and Aleo   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
+-  ***August 27, 2026*** :  Introduction to ZkSync   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
+-  ***September 24, 2026*** :  Zero Knowledge bridges   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
+-  ***October 29, 2026*** :  Zero Knowledge virtual machines (ZkVM)   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+
+-  ***November 26, 2026*** :  Zero Knowledge and identity   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
+-  ***December 17, 2026*** :  Wrap up 2026   
+Slideshow :   
+Recording :     
+Meetup:  
+Code :   
+Quiz (challenge) :   
+
+    *Links and literature* :    
+
