@@ -347,7 +347,7 @@ https://github.com/Zokrates/zokrates-playground
 -  ***May 28, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
 Null-Wissen-Beweis.pdf   
-Recording :     
+Recording : [Link to the recording](https://www.youtube.com/watch?v=NO_nOY44l94)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312606404/)   
 Code :   
 Quiz (challenge) :   
@@ -364,21 +364,12 @@ https://www.fhnw.ch/plattformen/imvs/tech-talk-zero-knowledge-proofs/
 Zero-Knowledge-Verfahren   
 https://tu-dresden.de/ing/informatik/sya/ps/ressourcen/dateien/studium/materialien/mat_kp_datensicherheit/v11_doku.pdf?lang=en    
 
--  ***June 25, 2026*** :  Cairo and Starkware   
-Slideshow :   
+-  ***June 25, 2026*** :  Cairo and Starknet   
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1WdMp2ywpYF2cwfYWXbLOZF4TXWstmzniTNx-Lx_R82w/edit?usp=sharing)    
 Recording :     
-Meetup:  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/314591527/)   
 Code :   
-Quiz (challenge) :   
-
-    *Links and literature* :    
-
--  ***June 25, 2026*** :  Cairo and Starkware   
-Slideshow :   
-Recording :     
-Meetup:  
-Code :   
-Quiz (challenge) :   
+Quiz (challenge) :    
 
     *Links and literature* :    
 
