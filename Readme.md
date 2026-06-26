@@ -366,18 +366,29 @@ https://tu-dresden.de/ing/informatik/sya/ps/ressourcen/dateien/studium/materiali
 
 -  ***June 25, 2026*** :  Cairo and Starknet   
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1WdMp2ywpYF2cwfYWXbLOZF4TXWstmzniTNx-Lx_R82w/edit?usp=sharing)    
-Recording :     
+Cairo and Starknet.pdf   
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=A0H5n9cjM1A)      
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/314591527/)   
 Code :   
-Quiz (challenge) :    
-
+Quiz (challenge) :  Build a simple (9,9) sudoku puzzle with Cairo   
+   
     *Links and literature* :    
+The Cairo Book   
+https://www.starknet.io/cairo-book/#the-cairo-book   
+Cairo – a Turing-complete STARK-friendly CPU architecture   
+https://eprint.iacr.org/2021/1063.pdf   
+Cairo programming language    
+https://www.cairo-lang.org/    
+Starknet tutorials   
+https://www.starknet.io/tutorials/   
+Cairo playground   
+https://www.cairo-lang.org/cairovm/   
 
 
 -  ***July 30, 2026*** :  Basics of Leo and Aleo   
-Slideshow :   
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1LvM4DDvBfq7ED_5uP_qaA6YTXt_RCxUw76SJdxHF8dk/edit?usp=sharing)     
 Recording :     
-Meetup:  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/315431208/)   
 Code :   
 Quiz (challenge) :   
 
