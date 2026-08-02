@@ -387,18 +387,29 @@ https://www.cairo-lang.org/cairovm/
 
 -  ***July 30, 2026*** :  Basics of Leo and Aleo   
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1LvM4DDvBfq7ED_5uP_qaA6YTXt_RCxUw76SJdxHF8dk/edit?usp=sharing)     
-Recording :     
+Basics of Leo and Aleo.pdf    
+Recording :  [Link to the recording]https://www.youtube.com/watch?v=iIvv4RuAZOg)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/315431208/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Build a simple (9,9) sudoku puzzle with Leo   
 
     *Links and literature* :    
+Leo Language   
+https://www.leo-lang.org/    
+LEO: A Programming Language for Formally Verified, Zero-Knowledge Applications   
+https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf    
+Aleo   
+https://aleo.org/   
+Aleo documentation   
+https://docs.aleo.org/    
+Hello Leo   
+https://docs.leo-lang.org/getting_started/hello    
 
 
 -  ***August 27, 2026*** :  Introduction to ZkSync   
-Slideshow :   
+Slideshow :   [Link to the slideshow](https://docs.google.com/presentation/d/12-OWAQtobsXvTWRQIve3fuyJZUvNayTxU2kUmzaXx2E/edit?usp=sharing)     
 Recording :     
-Meetup:  
+Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/315946671/)   
 Code :   
 Quiz (challenge) :   
 
