@@ -346,7 +346,7 @@ https://github.com/Zokrates/zokrates-playground
 
 -  ***May 28, 2026*** : Null-Wissen-Beweis (Auf Deutsch)     
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Nj9YjomT60bnGomeiF7LeFpZq0zl6b088BXP-wIGSs0/edit?usp=sharing)    
-Null-Wissen-Beweis.pdf   
+docs\Null-Wissen-Beweis.pdf   
 Recording : [Link to the recording](https://www.youtube.com/watch?v=NO_nOY44l94)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/312606404/)   
 Code :   
@@ -366,7 +366,7 @@ https://tu-dresden.de/ing/informatik/sya/ps/ressourcen/dateien/studium/materiali
 
 -  ***June 25, 2026*** :  Cairo and Starknet   
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1WdMp2ywpYF2cwfYWXbLOZF4TXWstmzniTNx-Lx_R82w/edit?usp=sharing)    
-Cairo and Starknet.pdf   
+docs\Cairo and Starknet.pdf   
 Recording :  [Link to the recording](https://www.youtube.com/watch?v=A0H5n9cjM1A)      
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/314591527/)   
 Code :   
@@ -387,8 +387,8 @@ https://www.cairo-lang.org/cairovm/
 
 -  ***July 30, 2026*** :  Basics of Leo and Aleo   
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1LvM4DDvBfq7ED_5uP_qaA6YTXt_RCxUw76SJdxHF8dk/edit?usp=sharing)     
-Basics of Leo and Aleo.pdf    
-Recording :  [Link to the recording]https://www.youtube.com/watch?v=iIvv4RuAZOg)       
+docs\Basics of Leo and Aleo.pdf    
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=iIvv4RuAZOg)       
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/315431208/)   
 Code :   
 Quiz (challenge) :  Build a simple (9,9) sudoku puzzle with Leo   
@@ -408,18 +408,29 @@ https://docs.leo-lang.org/getting_started/hello
 
 -  ***August 27, 2026*** :  Introduction to ZkSync   
 Slideshow :   [Link to the slideshow](https://docs.google.com/presentation/d/12-OWAQtobsXvTWRQIve3fuyJZUvNayTxU2kUmzaXx2E/edit?usp=sharing)     
-Recording :     
+docs\Introduction to ZkSync.pdf   
+Recording :    [Link to the recording](https://www.youtube.com/watch?v=iIvv4RuAZOg)      
 Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/315946671/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Build a simple (9,9) Sudoku in Solidity and deploy it to a ZKsync chain or rollup   
 
     *Links and literature* :    
+ZK sync   
+https://www.zksync.io/   
+A complete guide to zkSync   
+https://support.token.im/hc/en-us/articles/   4405480116889-A-complete-guide-to-zkSync    
+zkSync Guide - The future of Ethereum scaling   
+https://soliditydeveloper.com/zkSync    
+ZKsync web3 examples   
+https://codesandbox.io/examples/package/zksync-web3   
+CryptoZombies zkSync   
+https://cryptozombies.io/en/course/    
 
 
 -  ***September 24, 2026*** :  Zero Knowledge bridges   
-Slideshow :   
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1HDgy5mVN2Rswz8wo05Aj8vdx_pCpN8z_LKyipfw-6Ek/edit?usp=sharing)    
 Recording :     
-Meetup:  
+Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/316302060/)   
 Code :   
 Quiz (challenge) :   
 
