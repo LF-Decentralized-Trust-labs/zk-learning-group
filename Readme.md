@@ -429,18 +429,29 @@ https://cryptozombies.io/en/course/
 
 -  ***September 24, 2026*** :  Zero Knowledge bridges   
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1HDgy5mVN2Rswz8wo05Aj8vdx_pCpN8z_LKyipfw-6Ek/edit?usp=sharing)    
-Recording :     
+docs\Zero knowledge bridges.pdf   
+Recording : [Link to the recording](https://www.youtube.com/watch?v=U4VzuRVaCwU&list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf&index=6)      
 Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/316302060/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Experiment with a ZKBridge protocol    
 
     *Links and literature* :    
+ZK Bridges: How Zero-Knowledge Proofs Enable a Cross-Chain World   
+https://www.binance.com/en/square/post/889904    
+Exploring ZK Bridges   
+https://zkv.xyz/exploring-zk-bridges/   
+SuperEx Educational Series:    Understanding the ZK Bridge Mechanism   
+https://superex.medium.com/superex-educational-series-understanding-the-zk-bridge-mechanism-d555891bfd2c   
+Zero-Knowledge Proof Bridge   
+https://chainscorelabs.com/glossary/smart-contracts/cross-chain-smart-contracts/zero-knowledge-proof-bridge   
+zkBridge: Trustless Cross-chain Bridges Made Practical   
+https://arxiv.org/pdf/2210.00264   
 
 
--  ***October 29, 2026*** :  Zero Knowledge virtual machines (ZkVM)   
-Slideshow :   
+-  ***October 29, 2026*** :  Quantum resistance and zero knowledge proofs     
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1NQpC8h4GBCuIc4D3X5sIrjf7YWItuJDFvHngCDMfkiA/edit?usp=sharing)   
 Recording :     
-Meetup:  
+Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/316783773/)   
 Code :   
 Quiz (challenge) :   
 
