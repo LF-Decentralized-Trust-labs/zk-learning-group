@@ -450,18 +450,29 @@ https://arxiv.org/pdf/2210.00264
 
 -  ***October 29, 2026*** :  Quantum resistance and zero knowledge proofs     
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1NQpC8h4GBCuIc4D3X5sIrjf7YWItuJDFvHngCDMfkiA/edit?usp=sharing)   
-Recording :     
-Meetup:  Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/316783773/)   
+docs/Quantum resistance and zero knowledge proofs.pdf    
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=dLvIQkeU0zU)      
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/316783773/)   
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) :  Analyze how an existing application with ZK should be migrated to post quantum    
 
     *Links and literature* :    
+Zero-Knowledge Proofs in Blockchain Becoming Quantum Secure   
+https://www.quantumcanary.org/insights/zero-knowledge-proofs-in-blockchain-becoming-quantum-secure    
+Zk & Quantum Computing: What You Need to Know   
+https://www.quantumcanary.org/insights/zk-quantum-computing-what-you-need-to-know    
+Post-Quantum Aztec   
+https://aztec.network/blog/post-quantum-aztec    
+How to Build a Post-Quantum Cryptography Migration Roadmap: A 12-Step Playboo   
+https://quantumgate.ae/post-quantum-cryptography-migration-roadmap    
+Enabling a Smooth Migration towards Post-Quantum Security for Ethereum   
+https://pqcee.github.io/Enabling_a_Smooth_Migration_towards_Post_Quantum_Security_for_Ethereum.pdf    
 
 
--  ***November 26, 2026*** :  Zero Knowledge and identity   
-Slideshow :   
+-  ***November 26, 2026*** : ZK Identity, supporting AML/KYC with ZK   
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1xyIvMm8kDNyPgzphymnSssIPQtBb8Ak4aEu24xEYieY/edit?usp=sharing)    
 Recording :     
-Meetup:  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/317025022/)    
 Code :   
 Quiz (challenge) :   
 
