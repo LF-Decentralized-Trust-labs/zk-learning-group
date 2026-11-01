@@ -478,10 +478,10 @@ Quiz (challenge) :
 
     *Links and literature* :    
 
--  ***December 17, 2026*** :  Wrap up 2026   
-Slideshow :   
+-  ***December 10, 2026*** :  Wrap up 2026, zero knowledge order book matching      
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Fpec985YFxjF4NwsehoRrdJDlS9p718LcUJ9KGhOfvI/edit?usp=sharing)    
 Recording :     
-Meetup:  
+Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/317237690/)   
 Code :   
 Quiz (challenge) :   
 
