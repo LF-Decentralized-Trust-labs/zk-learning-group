@@ -470,13 +470,27 @@ https://pqcee.github.io/Enabling_a_Smooth_Migration_towards_Post_Quantum_Securit
 
 
 -  ***November 26, 2026*** : ZK Identity, supporting AML/KYC with ZK   
-Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1xyIvMm8kDNyPgzphymnSssIPQtBb8Ak4aEu24xEYieY/edit?usp=sharing)    
-Recording :     
+Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1xyIvMm8kDNyPgzphymnSssIPQtBb8Ak4aEu24xEYieY/edit?usp=sharing)   
+docs\ZK Indentity ZK AML.pdf    
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=uedCZM8hNMU&list=PL0MZ85B_96CEmmy0C6NF52ZCMNcY1Wryf&index=4)     
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/317025022/)    
 Code :   
-Quiz (challenge) :   
+Quiz (challenge) : Experiment with a demo presentation and zero knowledge proof own your own     
 
     *Links and literature* :    
+What Is Zero-Knowledge Identity?  
+https://chain.link/article/what-is-zero-knowledge-identity   
+Selective Disclosure & SD-JWTs: The Complete Guide to Privacy-Preserving Digital Identity  
+https://docs.walt.id/concepts/selective-disclosure 
+zkID  
+https://pse.dev/projects/zk-id   
+ZK Whiteboard Sessions - S3M7: zkID (Anonymous Credentials)   
+https://www.youtube.com/watch?v=vqBef6XFB4A   
+The impact of zero-knowledge proofs on data minimisation compliance of digital identity wallets  
+https://policyreview.info/articles/analysis/impact-zero-knowledge-proofs   
+Looking for Change in Haystacks: Remarks before SIFMA’s Digital Assets Conference   
+https://www.sec.gov/newsroom/speeches-statements/peirce-looking-change-haystacks-remarks-sifma-s-digital-assets-conference-092326   
+
 
 -  ***December 10, 2026*** :  Wrap up 2026, zero knowledge order book matching      
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1Fpec985YFxjF4NwsehoRrdJDlS9p718LcUJ9KGhOfvI/edit?usp=sharing)    
